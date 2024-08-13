@@ -1,5 +1,5 @@
 # Python-based Library Management System
-The library management system was developed to streamline the process for students and university staffs so that they can easily access the system to add, update, remove and search for any particular book record as well as view the whole book list. Besides, this system can also help streamline the process of managing and organizing large volumes of books. Python is used as the foundation for this system as it is layman-friendly and easy to use to create any system.
+The library management system was developed to streamline the process for students and university staff so that they can easily access the system to add, update, remove and search for any particular book record as well as view the whole book list. Besides, this system can also help streamline the process of managing and organizing large volumes of books. Python is used as the foundation for this system as it is layman-friendly and easy to use to create any system.
 
 There are several assumptions to be made when creating and examining the functionality of this system, as listed below: 
 
